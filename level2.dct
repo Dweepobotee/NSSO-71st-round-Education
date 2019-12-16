@@ -1,0 +1,31 @@
+infix dictionary
+{
+     str common_id 1-35
+	 str fsu 4-8
+	 sector 15-15
+	 str sub_block_num 32-32
+	 str sss_num 33-33
+	 str hhnum 34-35
+	 str level 36-37
+	 str filler 38-42
+	 str state_code 16-17
+	 state_name 16-17
+	 str district_code 19-20
+	 district_name 19-20
+	 hh_size 43-44
+	 str nic_code 45-49
+	 str nco_code 50-52
+	 hh_type 53-53
+	 religion 54-54
+	 social_grp 55-55
+	 dist_primary_school 56-56
+	 dist_upper_school 57-57
+	 dist_secondary_school 58-58
+	 computer 59-59
+	 internet 60-60
+	 hh_consumption 61-68
+	 blank 69-126
+	 str nss 127-129
+	 str nsc 130-132
+	 str mlt 133-142
+}
